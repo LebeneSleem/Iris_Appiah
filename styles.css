@@ -15,7 +15,7 @@ body {
   color: #fff; /* White text color for the container */
 }
 
-h1 {
+.container h1 {
   font-size: 2.5rem;
   color: #fff; /* White text color for h1 */
 }
