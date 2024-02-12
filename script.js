@@ -49,7 +49,7 @@ document.getElementById("yesButton").addEventListener("click", () => {
   heartButton.textContent = "Listen to my heart";
   heartButton.className = "yes-button";
   heartButton.addEventListener("click", () => {
-    window.open("https://open.spotify.com/playlist/1XQlV6o7NcX27Q8WLmGxT1");
+    window.open("https://open.spotify.com/playlist/0fF7CwQhgrerjuEtYa4tUp?si=sBbviThmSjyR8Ld6oUa2Jg&pi=e-k00OZH_0ST-6");
   });
 
   // Append button to container
