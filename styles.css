@@ -20,7 +20,7 @@ body {
   }
   h1 {
     font-size: 2.5rem;
-    color: #333;
+    color: #fff;
   }
   img#mainImage {
     max-width: 300%; /* Adjust to make the main image wider */
